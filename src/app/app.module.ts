@@ -6,13 +6,13 @@ import { StatusBar } from '@ionic-native/status-bar';
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
-import {ArLauncherPage} from '../pages/ar-launcher/ar-launcher';
+import {ArlauncherPage} from '../pages/arlauncher/arlauncher';
 
 @NgModule({
   declarations: [
     MyApp,
     HomePage,
-    ArLauncherPage
+    ArlauncherPage
   ],
   imports: [
     BrowserModule,
@@ -22,7 +22,7 @@ import {ArLauncherPage} from '../pages/ar-launcher/ar-launcher';
   entryComponents: [
     MyApp,
     HomePage,
-    ArLauncherPage
+    ArlauncherPage
   ],
   providers: [
     StatusBar,
