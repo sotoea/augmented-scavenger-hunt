@@ -1,0 +1,8 @@
+{
+  "name": "augmented-scavenger-hunt",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "54957ae9"
+}
